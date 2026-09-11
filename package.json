@@ -3,11 +3,12 @@
   "version": "0.1.0",
   "description": "News headlines for Pi coding agent — Google News RSS topics + FinancialJuice finance wire (no API keys). Ships a Sylo-only host plugin (pi.sylo) that is inert on vanilla Pi.",
   "type": "module",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "keywords": [
     "pi-package"
   ],
   "files": [
+    "LICENSE",
     "extensions",
     "skills",
     "host",
