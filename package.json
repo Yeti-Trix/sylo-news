@@ -36,5 +36,9 @@
   },
   "scripts": {
     "test": "esbuild extensions/news/rss-fetch.test.mjs --bundle --platform=node --format=esm --outfile=out/rss-fetch.test.mjs --packages=external && node --test out/rss-fetch.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yeti-Trix/sylo-news.git"
   }
 }
